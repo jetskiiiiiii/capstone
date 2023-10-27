@@ -1,3 +1,6 @@
 .venv/
 .pytest_cache/
 capstone.code-workspace
+.DS_Store
+PRACTICE/.DS_Store
+RIBONANZA-RNA-FOLDING/.DS_Store
